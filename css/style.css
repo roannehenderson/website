@@ -71,8 +71,8 @@ body:after {
     -webkit-box-shadow: none !important;
     box-shadow: none !important; }
   .btn.btn-primary {
-    background: #9c2c2c;
-    border-color: #9c2c2c;
+    background: #ff5700;
+    border-color: #ff5700;
     color: #fff; }
     .btn.btn-primary:hover {
       background: #000;
@@ -119,7 +119,7 @@ body:after {
       font-size: 3rem; } }
 
 .site-footer {
-  background: #9c2c2c; }
+  background: #ff872b; }
   @media (min-width: 768px) {
     .site-footer {
        } }
@@ -660,10 +660,22 @@ body:after {
         right: -90px; } }
 
 body {
-  background: #f4f32e !important; }
+  background: #fafacd !important; }
 
 .bg-light {
-  background: #f4f32e !important; }
+  background: #fafacd !important; }
+
+.bg-price-1 {
+  background-color: #ff9b0b !important;
+}
+
+.bg-price-2 {
+  background-color: #ed8a1a !important;
+}
+
+.bg-price-3 {
+  background-color: #ff9b0b !important;
+}
 
 .site-blocks-vs .bg-image {
   padding-top: 3em;
